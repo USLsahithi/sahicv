@@ -1,0 +1,30 @@
+body{
+  background-color: #C9F4AA;
+}
+
+.home{
+  right: 50%;
+  position:absolute;
+}
+.skills{
+  right: 40.8%;
+  position:absolute;
+}
+.certificate{
+  right: 24.5%;
+  position:absolute;
+}
+.project{
+  right: 12%;
+  position:absolute;
+}
+
+.about{
+  right: 2%;
+  position:absolute;
+}
+.buttons{
+  font-family: "Times New Roman", Times, serif;
+  font-size:90%;
+  font-weight: bold;
+}
